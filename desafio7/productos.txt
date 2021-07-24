@@ -1,0 +1,6 @@
+{"title":"Coca Cola","price":150,"thumbnail":"http://cocacola","id":1}
+{"title":"Papas fritas Lays","price":80,"thumbnail":"http://papasfritas","id":2}
+{"title":"Pure de tomate","price":100,"stock":15,"thumbnail":"http://puredetomate","id":3}
+{"title":"Pan","price":70,"stock":15,"thumbnail":"http://panfrances","id":4}
+{"title":"Jugo Citric","price":170,"stock":10,"thumbnail":"http://citric","id":6}
+{"title":"Caramelos Menthoplus","price":50,"stock":0,"thumbnail":"http://Menthoplus","id":5}
